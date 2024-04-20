@@ -72,7 +72,7 @@ exercise_name`.
 comment to move on to the next exercise.
 5. If an exercise doesn't make sense to you, please open an issue on GitHub!
 (https://github.com/shramee/starklings-cairo1/issues/new).
-
+dfdsf
 Got all that? Great! To get started, run `starklings watch` in order to get the
 first exercise. Make sure to have your editor open!
 ```
